@@ -1,0 +1,14 @@
+C:\Users\jeast\Documents\Development\#Github\cqrs-microservices\src\apps\Jeasthamdev.Cqrs.Gateway\obj\Debug\netcoreapp2.2\Jeasthamdev.Cqrs.Gateway.csprojAssemblyReference.cache
+C:\Users\jeast\Documents\Development\#Github\cqrs-microservices\src\apps\Jeasthamdev.Cqrs.Gateway\obj\Debug\netcoreapp2.2\Jeasthamdev.Cqrs.Gateway.AssemblyInfoInputs.cache
+C:\Users\jeast\Documents\Development\#Github\cqrs-microservices\src\apps\Jeasthamdev.Cqrs.Gateway\obj\Debug\netcoreapp2.2\Jeasthamdev.Cqrs.Gateway.AssemblyInfo.cs
+C:\Users\jeast\Documents\Development\#Github\cqrs-microservices\src\apps\Jeasthamdev.Cqrs.Gateway\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\jeast\Documents\Development\#Github\cqrs-microservices\src\apps\Jeasthamdev.Cqrs.Gateway\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\jeast\Documents\Development\#Github\cqrs-microservices\src\apps\Jeasthamdev.Cqrs.Gateway\bin\Debug\netcoreapp2.2\Ocelot.json
+C:\Users\jeast\Documents\Development\#Github\cqrs-microservices\src\apps\Jeasthamdev.Cqrs.Gateway\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\jeast\Documents\Development\#Github\cqrs-microservices\src\apps\Jeasthamdev.Cqrs.Gateway\bin\Debug\netcoreapp2.2\Jeasthamdev.Cqrs.Gateway.deps.json
+C:\Users\jeast\Documents\Development\#Github\cqrs-microservices\src\apps\Jeasthamdev.Cqrs.Gateway\bin\Debug\netcoreapp2.2\Jeasthamdev.Cqrs.Gateway.runtimeconfig.json
+C:\Users\jeast\Documents\Development\#Github\cqrs-microservices\src\apps\Jeasthamdev.Cqrs.Gateway\bin\Debug\netcoreapp2.2\Jeasthamdev.Cqrs.Gateway.runtimeconfig.dev.json
+C:\Users\jeast\Documents\Development\#Github\cqrs-microservices\src\apps\Jeasthamdev.Cqrs.Gateway\bin\Debug\netcoreapp2.2\Jeasthamdev.Cqrs.Gateway.dll
+C:\Users\jeast\Documents\Development\#Github\cqrs-microservices\src\apps\Jeasthamdev.Cqrs.Gateway\bin\Debug\netcoreapp2.2\Jeasthamdev.Cqrs.Gateway.pdb
+C:\Users\jeast\Documents\Development\#Github\cqrs-microservices\src\apps\Jeasthamdev.Cqrs.Gateway\obj\Debug\netcoreapp2.2\Jeasthamdev.Cqrs.Gateway.dll
+C:\Users\jeast\Documents\Development\#Github\cqrs-microservices\src\apps\Jeasthamdev.Cqrs.Gateway\obj\Debug\netcoreapp2.2\Jeasthamdev.Cqrs.Gateway.pdb

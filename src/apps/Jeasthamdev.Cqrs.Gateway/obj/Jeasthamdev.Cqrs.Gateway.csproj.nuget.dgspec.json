@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jeast\\Documents\\Development\\#Github\\cqrs-microservices\\src\\apps\\Jeasthamdev.Cqrs.Gateway\\Jeasthamdev.Cqrs.Gateway.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jeast\\Documents\\Development\\#Github\\cqrs-microservices\\src\\apps\\Jeasthamdev.Cqrs.Gateway\\Jeasthamdev.Cqrs.Gateway.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jeast\\Documents\\Development\\#Github\\cqrs-microservices\\src\\apps\\Jeasthamdev.Cqrs.Gateway\\Jeasthamdev.Cqrs.Gateway.csproj",
+        "projectName": "Jeasthamdev.Cqrs.Gateway",
+        "projectPath": "C:\\Users\\jeast\\Documents\\Development\\#Github\\cqrs-microservices\\src\\apps\\Jeasthamdev.Cqrs.Gateway\\Jeasthamdev.Cqrs.Gateway.csproj",
+        "packagesPath": "C:\\Users\\jeast\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jeast\\Documents\\Development\\#Github\\cqrs-microservices\\src\\apps\\Jeasthamdev.Cqrs.Gateway\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jeast\\Documents\\Development\\#Github\\cqrs-microservices\\NuGet.Config",
+          "C:\\Users\\jeast\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://wfd-nuget-public.azurewebsites.net/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Formatters.Json": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "ocelot": {
+              "target": "Package",
+              "version": "[13.5.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
