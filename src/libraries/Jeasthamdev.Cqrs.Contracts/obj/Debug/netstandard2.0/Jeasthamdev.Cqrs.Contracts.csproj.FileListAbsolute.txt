@@ -1,0 +1,8 @@
+C:\Users\jeast\Documents\Development\#Github\cqrs-microservices\src\libraries\Jeasthamdev.Cqrs.Contracts\bin\Debug\netstandard2.0\Jeasthamdev.Cqrs.Contracts.deps.json
+C:\Users\jeast\Documents\Development\#Github\cqrs-microservices\src\libraries\Jeasthamdev.Cqrs.Contracts\bin\Debug\netstandard2.0\Jeasthamdev.Cqrs.Contracts.dll
+C:\Users\jeast\Documents\Development\#Github\cqrs-microservices\src\libraries\Jeasthamdev.Cqrs.Contracts\bin\Debug\netstandard2.0\Jeasthamdev.Cqrs.Contracts.pdb
+C:\Users\jeast\Documents\Development\#Github\cqrs-microservices\src\libraries\Jeasthamdev.Cqrs.Contracts\obj\Debug\netstandard2.0\Jeasthamdev.Cqrs.Contracts.csprojAssemblyReference.cache
+C:\Users\jeast\Documents\Development\#Github\cqrs-microservices\src\libraries\Jeasthamdev.Cqrs.Contracts\obj\Debug\netstandard2.0\Jeasthamdev.Cqrs.Contracts.AssemblyInfoInputs.cache
+C:\Users\jeast\Documents\Development\#Github\cqrs-microservices\src\libraries\Jeasthamdev.Cqrs.Contracts\obj\Debug\netstandard2.0\Jeasthamdev.Cqrs.Contracts.AssemblyInfo.cs
+C:\Users\jeast\Documents\Development\#Github\cqrs-microservices\src\libraries\Jeasthamdev.Cqrs.Contracts\obj\Debug\netstandard2.0\Jeasthamdev.Cqrs.Contracts.dll
+C:\Users\jeast\Documents\Development\#Github\cqrs-microservices\src\libraries\Jeasthamdev.Cqrs.Contracts\obj\Debug\netstandard2.0\Jeasthamdev.Cqrs.Contracts.pdb
