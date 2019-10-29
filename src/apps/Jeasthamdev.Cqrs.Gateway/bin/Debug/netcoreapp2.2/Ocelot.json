@@ -7,9 +7,16 @@
                     {
                         "Host": "localhost",
                         "Port": 5008
+                    },
+                    {
+                        "Host": "localhost",
+                        "Port": 5043
                     }
                 ],
             "UpstreamPathTemplate": "/api/order",
+            "LoadBalancerOptions": {
+                "Type": "LeastConnection"
+            },
             "UpstreamHttpMethod": [ "Get" ]
         },
         {
