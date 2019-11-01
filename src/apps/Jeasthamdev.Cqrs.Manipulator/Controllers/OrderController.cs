@@ -15,15 +15,13 @@ namespace Jeasthamdev.Cqrs.Manipulator.Controllers
     [Route("[controller]")]
     public class OrderController : ControllerBase
     {
-        private readonly ILogger<OrderController> _logger;
         private readonly IOrderRepository _orderRepo;
         private readonly IPublishEndpoint _publishEndpoint;
 
         public OrderController(ILogger<OrderController> logger
             ,IOrderRepository orderRepo
-            , IPublishEndpoint publishEndpoint)
+            ,IPublishEndpoint publishEndpoint)
         {
-            _logger = logger;
             this._orderRepo = orderRepo;
             this._publishEndpoint = publishEndpoint;
         }

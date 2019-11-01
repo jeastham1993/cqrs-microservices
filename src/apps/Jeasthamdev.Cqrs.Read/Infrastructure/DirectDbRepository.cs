@@ -60,22 +60,21 @@ namespace Jeasthamdev.Cqrs.Read.Infrastructure
         {
             List<Order> orderResponse = null;
 
-            var cachedOrderData = await this._distributedCache.GetStringAsync(InstanceSettings.InstanceIdentifier);
+            var existingCacheDate = await this._distributedCache.GetStringAsync(InstanceSettings.InstanceIdentifier);
 
             using (var sqlConnection = new SqlConnection(DbSettings.ConnectionString))
             {
-                if (cachedOrderData == null)
+                if (existingCacheDate == null)
                 {
                     await sqlConnection.OpenAsync();
 
                     orderResponse = (await sqlConnection.QueryAsync<Order>(GET_QUERY)).ToList();
 
-
                     await this._distributedCache.SetStringAsync(InstanceSettings.InstanceIdentifier, JsonConvert.SerializeObject(orderResponse));
                 }
                 else
                 {
-                    orderResponse = JsonConvert.DeserializeObject<List<Order>>(cachedOrderData);
+                    orderResponse = JsonConvert.DeserializeObject<List<Order>>(existingCacheDate);
 
                     var newOrder = await sqlConnection.QueryFirstOrDefaultAsync<Order>(GET_SPECIFIC_QUERY, new {orderId = newOrderId});
 
