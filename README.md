@@ -12,7 +12,7 @@ Implementation of CQRS across multiple microservices. This architecture contains
 
 # Usage
 
-All infrasructure requirements are held within the docker-compose file, they can be started by running in the root of the repo 
+All infrastructure requirements are held within the docker-compose file, they can be started by running in the root of the repo 
 
 ```
 docker-compose up -d

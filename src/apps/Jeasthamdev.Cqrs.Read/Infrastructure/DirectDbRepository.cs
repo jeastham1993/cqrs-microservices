@@ -81,9 +81,9 @@ namespace Jeasthamdev.Cqrs.Read.Infrastructure
                     if (newOrder != null)
                     {
                         orderResponse.Add(newOrder);
-                    }
 
-                    await this._distributedCache.SetStringAsync(InstanceSettings.InstanceIdentifier, JsonConvert.SerializeObject(orderResponse));
+                        await this._distributedCache.SetStringAsync(InstanceSettings.InstanceIdentifier, JsonConvert.SerializeObject(orderResponse));
+                    }
                 }
             }
 
